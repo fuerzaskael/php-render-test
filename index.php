@@ -55,7 +55,7 @@ try {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Render MySQL Auth Test</title>
+    <title>Login Test ni siya choi</title>
     <style>
         body { font-family: sans-serif; background: #0f172a; color: #f8fafc; display: flex; justify-content: center; padding-top: 50px; }
         .card { background: #1e293b; padding: 25px; border-radius: 12px; width: 340px; border: 1px solid #334155; }
